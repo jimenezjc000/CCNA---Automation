@@ -5,4 +5,4 @@ def greet_user(name):
     return f"Hello, {name}! Welcome to the CCNA Automation Feature."
 
 if __name__ == "__main__":
-    user_name = input("Enter your name:
+    user_name = input("Enter your name: ")
