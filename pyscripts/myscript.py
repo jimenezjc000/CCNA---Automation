@@ -2,7 +2,7 @@
 
 def main():
  print("Hello, world!")
- print("Welcome to DevNet!")
+ print("Welcome to CCNA Automation!")
 
 if __name__ == "__main__":
  main()
